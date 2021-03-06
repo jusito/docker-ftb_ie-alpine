@@ -27,6 +27,7 @@ ENV MY_GROUP_ID=10000 \
 	ROOT_IN_MODPACK_ZIP="" \
 	MINECRAFT_VERSION="" \
 	FORGE_VERSION="" \
+	CLEANUP_PATHS="mods config scripts structures libraries resources" \
 	\
 # server.properties
 	IGNORE_PROPERTY_ERRORS=false \

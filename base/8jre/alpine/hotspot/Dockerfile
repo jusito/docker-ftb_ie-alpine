@@ -28,6 +28,7 @@ ENV MY_GROUP_ID=10000 \
 	MINECRAFT_VERSION="" \
 	FORGE_VERSION="" \
 	CLEANUP_PATHS="mods config scripts structures libraries resources" \
+	PERSISTENT_PATHS="banned-ips.json banned-players.json config.sh ops.json server.properties usercache.json usernamecache.json whitelist.json" \
 	\
 # server.properties
 	IGNORE_PROPERTY_ERRORS=false \
